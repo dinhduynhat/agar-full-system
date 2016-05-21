@@ -1,10 +1,15 @@
+Preqs, Node, python
+
 1. Run Ogar
+	(npm install)
 	sudo node src/index.js
 
 2. Run Repeater
+	(npm install ws)
 	node repeater.js -a ws://127.0.0.1:443
 
 3. Run findserver
+	(npm install)
 	(don't forget to modify etc hosts file (m.agar.io -> 127.0.0.1))
 	sudo npm start
 
@@ -14,4 +19,5 @@
 5. Connect to frontend in browser (localhost:8000)
 
 6. Run Bot
+	(npm install)
 	npm run main -- ./latest.json
