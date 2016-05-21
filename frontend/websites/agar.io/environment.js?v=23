@@ -1,0 +1,1 @@
+window.EnvConfig={"env_production":true,"fb_app_id":677505792353827,"master_url":"m.agar.io","socketEndpoint":'wss://web-live-v2-0.agario.miniclippt.com/ws',"xsolla_endpoint":"https://payments.agario.miniclippt.com","fb_endpoint":"https://rewardcallback-live.agario.miniclippt.com/payments/facebook"}

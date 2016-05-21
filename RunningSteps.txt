@@ -1,0 +1,17 @@
+1. Run Ogar
+	sudo node src/index.js
+
+2. Run Repeater
+	node repeater.js -a ws://127.0.0.1:443
+
+3. Run findserver
+	(don't forget to modify etc hosts file (m.agar.io -> 127.0.0.1))
+	sudo npm start
+
+4. Run frontend
+	python -m SimpleHTTPServer 8000
+
+5. Connect to frontend in browser (localhost:8000)
+
+6. Run Bot
+	npm run main -- ./latest.json
