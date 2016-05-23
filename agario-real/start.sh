@@ -1,0 +1,21 @@
+nohup npm run coord-stats -- 0 &
+nohup npm run rad-stats -- 0 &
+nohup npm run line-stats -- 0 &
+nohup npm run range-stats -- 0 &
+nohup npm run coord-stats -- 4000 &
+nohup npm run rad-stats -- 4000 &
+nohup npm run line-stats -- 4000 &
+nohup npm run range-stats -- 4000 &
+nohup npm run coord-stats -- 8000 &
+nohup npm run rad-stats -- 8000 &
+nohup npm run line-stats -- 8000 &
+nohup npm run range-stats -- 8000 &
+nohup npm run coord-stats -- 12000 &
+nohup npm run rad-stats -- 12000 &
+nohup npm run line-stats -- 12000 &
+nohup npm run range-stats -- 12000 &
+nohup npm run coord-stats -- 16500 &
+nohup npm run rad-stats -- 16500 &
+nohup npm run line-stats -- 16500 &
+nohup npm run range-stats -- 16500 &
+
